@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alizeinali70
-- 👀 I’m interested in new Technologies
+- 👀 I'm looking for new role in C# backend Developer
 - 🌱 I’m currently learning new programming methods that improve efficiency
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m interested in new Technologies
 - 📫 How to reach me on Email address:ali.zeinali70@gmail.com
 
 <!---
